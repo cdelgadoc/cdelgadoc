@@ -13,14 +13,14 @@
 </p>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<h4>About me ....</h4>
 
 ✔ I’m currently learning about **everything that I can**<br>
 ✔ I’m currently developing **Machine Learning - Cloud Projects**<br>
 ✔ I’m looking to collaborate with any **Open - Source Projects**<br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack...***
+<h4>Tech Stack...</h4>
 
 <!--tech stack icons-->
 <p align="center">
