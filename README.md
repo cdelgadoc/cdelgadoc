@@ -1,16 +1,31 @@
-## Hi there 👋
+<hr>
+<h1 align="center">Hi I am Camilo </h1>
 
-<!--
-**cdelgadoc/cdelgadoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineer-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Cloud-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+ <a href = "mailto: camilodelgadocanon@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ I’m currently learning about **everything that I can**<br>
+✔ I’m currently developing **Machine Learning - Cloud Projects**<br>
+✔ I’m looking to collaborate with any **Open - Source Projects**<br>
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack...***
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,bash,spring,fastapi,hibernate,anaconda,sklearn,tensorflow,opencv,postgres,mysql,mongodb,redis,npm,angular,html,css,bootstrap,docker,aws,gcp,terraform,git,github,gitlab,bitbucket,linux,md,nginx,postman,eclipse,vscode" />
+  </a>
+</p>
