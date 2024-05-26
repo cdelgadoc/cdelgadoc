@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineer-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Cloud-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
