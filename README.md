@@ -1,4 +1,3 @@
-<hr>
 <h1 align="center">Hi I am Camilo </h1>
 
 <p align="center">
